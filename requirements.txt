@@ -1,0 +1,8 @@
+torch
+flask
+flask-cors
+numpy
+transformers
+torchtext
+spacy
+pytorch-pretrained-bert
